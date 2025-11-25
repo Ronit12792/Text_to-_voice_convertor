@@ -43,9 +43,3 @@ A simple and user-friendly Text-to-Speech (TTS) tool that converts written text 
 4. Adjust voice and speed (if available)
 
 ---
-
-
-
-
-✅ A logo for your project
-Just tell me!
